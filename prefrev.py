@@ -2,7 +2,7 @@
 """
 Created on Mon Oct  2 13:17:16 2023
 
-@author: Finch
+@author: Christopher Hemmens
 """
 
 import math
